@@ -6,7 +6,6 @@ This project builds a mini data warehouse for a fictional retail company to anal
 ## Contents
 
 - `schema.sql`: Table creation scripts
-- `load_data.sql`: SQL commands to load data from CSVs
 - `queries.sql`: Sample analytical queries
 - `*.csv`: Dimension and fact data
 
@@ -30,6 +29,7 @@ MIT License
 # Part 5: Reflection & Discussion
 Discussion Questions:
 # Q1 Why use a star schema instead of a normalized schema?
+
  
 # Q2. What are the benefits of separating facts from dimensions?
 
