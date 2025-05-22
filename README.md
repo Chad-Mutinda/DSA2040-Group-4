@@ -5,23 +5,21 @@ This project builds a mini data warehouse for a fictional retail company to anal
 
 ## Contents
 
-- `schema.sql`: Table creation scripts
-- `queries.sql`: Sample analytical queries
+- `schema2.sql`: Table creation scripts
+- `Queries2.sql`: Sample analytical queries
 - `*.csv`: Dimension and fact data
-- Screen shots showings the images of the 
+- Screen shots showings the outputs of the sample analytical queries
 
-## How to Use
-
-1. Set up a PostgreSQL database
-2. Run `schema.sql` to create the schema
-3. Load CSV data using `load_data.sql`
-4. Run queries from `queries.sql` to analyze
+## Loading the data sets
+We used MySQL for the work and for loading  the data sets, we made use of the table data import wizard.
 
 ## Team Members
 
-- Alice Smith (@alice-smith)
-- Bob Johnson (@bobjohnson)
-- Carol Lee (@carol-lee)
+- Sevidzem Marilyn (@marilynmaika)
+- Hetal Kumbharana (@HetalK4)
+- Chad Mutinda (@Chad-Mutinda)
+- Mangu Rita (@ritzy10)
+
 
 ## License
 
