@@ -66,4 +66,3 @@ Scalability:
   - The warehouse can also Identify low-margin products via fact_sales and dim_products.  
 
 
->>>>>>> 7c0eff3c6e2be157e2932a5ed9e994e5d7ea4b48
