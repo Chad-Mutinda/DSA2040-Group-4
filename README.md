@@ -8,6 +8,7 @@ This project builds a mini data warehouse for a fictional retail company to anal
 - `schema.sql`: Table creation scripts
 - `queries.sql`: Sample analytical queries
 - `*.csv`: Dimension and fact data
+- Screen shots showings the images of the 
 
 ## How to Use
 
