@@ -16,7 +16,7 @@ We used MySQL for the work and for loading  the data sets, we made use of the ta
 ## Team Members
 
 - Sevidzem Marilyn (@marilynmaika)
-- Hetal Kumbharana (@HetalK4)
+- Hetal Kumbharana -670207 (@HetalK4)
 - Chad Mutinda (@Chad-Mutinda)
 - Mangu Rita (@ritzy10)
 
@@ -64,10 +64,10 @@ Scalability:
 
  
 - Revenue Forecasting:  
-  -We also noticed that it can assist in efficiently predicting quarterly revenue using historical sales and dim_time.  
+  - We also noticed that it can assist in efficiently predicting quarterly revenue using historical sales and dim_time.  
 
 
 - Cost Reduction:  
-  - The warehouse can also Identify low-margin products via fact_sales and dim_products.  
+  - The warehouse can also identify low-margin products via fact_sales and dim_products.  
 
 
