@@ -30,6 +30,14 @@ MIT License
 # Part 5: Reflection & Discussion
 Discussion Questions:
 # Q1 Why use a star schema instead of a normalized schema?
+Why use a star schema instead of a normalized schema?
+A normalized schema involves breaking down a large table into several smaller tables. Each small table has its own primary key. Foreign keys are used to establish relationships between the tables. 
+The star schema is preferred over a normalized schema because:
+-	A star schema optimizes query performance and simplifies data retrieval in analytical environments (OLAP).
+-	The star schema has a straightforward design with a central fact table and surrounding dimension tables, making it faster for read-heavy queries, such as aggregations and reports. 
+-	Its denormalized structure reduces the number of joins required, leading to faster data processing, especially for large datasets. 
+-	The star schema is easier for business users to understand and interact with, making it ideal for business intelligence and data warehousing.
+-	 In contrast, a normalized schema is better suited for transactional systems (OLTP) where data integrity and minimizing redundancy are more important than fast query performance.
 
  
 # Q2. What are the benefits of separating facts from dimensions?
