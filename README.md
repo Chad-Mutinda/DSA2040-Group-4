@@ -24,8 +24,7 @@ We used MySQL for the work and for loading  the data sets, we made use of the ta
 ## License
 
 MIT License
-<<<<<<< HEAD
-=======
+
 
 # Part 5: Reflection & Discussion
 Discussion Questions:
