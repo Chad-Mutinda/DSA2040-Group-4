@@ -17,7 +17,7 @@ We used MySQL for the work and for loading  the data sets, we made use of the ta
 
 - Sevidzem Marilyn 669229(@marilynmaika)
 - Hetal Kumbharana -670207 (@HetalK4)
-- Chad Mutinda (@Chad-Mutinda)
+- Chad Mutinda -664884(@Chad-Mutinda)
 - Mangu Rita (@ritzy10)
 
 
