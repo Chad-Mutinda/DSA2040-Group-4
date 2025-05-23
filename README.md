@@ -56,7 +56,7 @@ Scalability:
 
 # Q3. What types of business decisions could this warehouse support?
  Sales & Marketing. 
- - The warehouse can assist in Identifying high-value customers by region or purchase history.  Which is basically efficiency in customer segmentation.
+ - The warehouse can assist in identifying high-value customers by region or purchase history.  Which is basically efficiency in customer segmentation.
   
   
 - Optimization of inventory:  
